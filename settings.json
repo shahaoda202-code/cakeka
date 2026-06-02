@@ -8,7 +8,7 @@
   "server": {
     "ip": "MOON-FSuN.aternos.me",
     "port": 48515,
-    "version": "1.21.6",
+    "version": "false",
     "try-creative": false
   },
   "position": {
