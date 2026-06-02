@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MOON-FSuN.aternos.me",
+    "ip": "plaice.aternos.host",
     "port": 48515,
     "version": "1.21.2",
     "try-creative": false
